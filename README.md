@@ -1,0 +1,3 @@
+## About Me
+
+A passionate Software Developer who is looking for decent development  related job. Has has skills in web-delelopment is built by Laravel and  Restful API is built by Spring Boot/Laravel and MySQL or PostgreSQL for  the Database and UI uses Bootstrap 4, Materialize CSS, HTML.  I take a fancy learning and increasing knowledge. Maybe there is an  amazing thing that I have never gotten before.
